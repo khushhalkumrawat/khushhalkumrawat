@@ -1,5 +1,5 @@
 # 💫 About Me:
-•3rd Year B.Tech Student @IITBHU<br>Strong foundation in Data Structures & Algorithms (DSA)<br>•Currently learning Machine Learning and Generative AI<br>•Interested in AI systems, predictive modeling, and real-world problem solving<br>•Skilled in problem-solving, logical thinking, and coding fundamentals<br>•Exploring ML model development, data analysis, and GenAI applications<br>•Passionate about building impactful tech projects and continuously learning new technologies<br>•Aspiring Software Engineer / ML Engineer with strong analytical mindset<br>
+•B.Tech Student @IITBHU<br>Strong foundation in Data Structures & Algorithms (DSA)<br>•Currently learning Machine Learning and Generative AI<br>•Interested in AI systems, predictive modeling, and real-world problem solving<br>•Skilled in problem-solving, logical thinking, and coding fundamentals<br>•Exploring ML model development, data analysis, and GenAI applications<br>•Passionate about building impactful tech projects and continuously learning new technologies<br>•Aspiring Software Engineer / ML Engineer with strong analytical mindset<br>
 
 
 ## 🌐 Socials:
