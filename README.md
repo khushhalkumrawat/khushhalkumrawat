@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm khushhal kumrawat</h1>
 <h3 align="center">Mern Stack Developer with strong in Javascript , React.js , Node.js , Express.js and MonogoDB , complemented by Strong Data Structures and Algorithm skills.</h3>
 
-- 📫 How to reach me **khushhalkumrawat25@gmail.com**
+- 📫 How to reach me **khushhalkumrawat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
